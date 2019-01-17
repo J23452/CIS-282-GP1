@@ -1,0 +1,7 @@
+GitHub project line number of DiceRoll.php for each coder responsible to modify:
+
+CODER #1 - Leonardo	3	5	6	9	15	16	18	20	28	29
+											
+CODER #2 - Ivan		4	14	17	19	31	32	33	43	46	
+											
+CODER #3 - Jonathan	7	8	27	30	40	41	42	44	45	
